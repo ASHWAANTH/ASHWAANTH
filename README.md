@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Ashwaanth 👋
+## Hi there, I'm Ashwaanth 👋
 
 ## 📚 About Me
 🎓 Electrical and Electronics Engineering Undergraduate
