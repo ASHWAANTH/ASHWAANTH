@@ -1,8 +1,8 @@
 
 
-## Hi there, I'm Ashwaanth 👋
+# Hi there, I'm Ashwaanth 👋
 
-# 📚 About Me
+## 📚 About Me
 🎓 Electrical and Electronics Engineering Undergraduate
 
 🏫 SSN College of Engineering (Batch of 2024–2028)
