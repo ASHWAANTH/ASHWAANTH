@@ -9,12 +9,12 @@
 
 💡 Passionate about Embedded Systems, Robotics, and AI 
 
-🌱 Currently learning: Python, C++, IoT, and Machine Learning
+<!--🌱 Currently learning: Python, C++, IoT, and Machine Learning-->
 
 🚀 Skills
 Programming: C | Python
 
-<!--Tools: MATLAB, Arduino, Raspberry Pi
+<!--Tools: MATLAB, Arduino, Raspberry Pi-->
 
 📫 Let's Connect
 LinkedIn: https://www.linkedin.com/in/ashwaanthrs
