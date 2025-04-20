@@ -17,4 +17,4 @@ Programming: C | Python
 <!--Tools: MATLAB, Arduino, Raspberry Pi-->
 
 📫 Let's Connect
-LinkedIn: https://www.linkedin.com/in/ashwaanthrs
+LinkedIn: [Linkedin](https://www.linkedin.com/in/ashwaanthrs)
