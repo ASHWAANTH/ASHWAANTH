@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**ASHWAANTH/ASHWAANTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi there, I'm Ashwaanth 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📚 About Me
+🎓 Electrical and Electronics Engineering Undergraduate
+
+🏫 SSN College of Engineering (Batch of 2024–2028)
+
+💡 Passionate about Embedded Systems, Robotics, and AI 
+
+🌱 Currently learning: Python, C++, IoT, and Machine Learning
+
+🚀 Skills
+Programming: C | Python
+
+<!--Tools: MATLAB, Arduino, Raspberry Pi
+
+📫 Let's Connect
+LinkedIn: https://www.linkedin.com/in/ashwaanthrs
