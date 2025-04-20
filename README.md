@@ -7,7 +7,7 @@
 
 🏫 SSN College of Engineering (Batch of 2024–2028)
 
-💡 Passionate about Embedded Systems, Robotics, and AI 
+💡 Passionate about Embedded Systems, Power Electronics, and Circuit Designing.
 
 <!--🌱 Currently learning: Python, C++, IoT, and Machine Learning-->
 
