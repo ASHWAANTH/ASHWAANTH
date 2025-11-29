@@ -9,14 +9,10 @@
 
 💡 Passionate about Embedded Systems, Power Electronics, and Circuit Designing.
 
-<!--🌱 Currently learning: Python, C++, IoT, and Machine Learning-->
 
-🚀 Skills
 
-Programming: C | Python
+🚀 Skills   Programming: C | Python
 
-<!--Tools: MATLAB, Arduino, Raspberry Pi-->
 
-📫 Let's Connect
 
-LinkedIn: [Linkedin](https://www.linkedin.com/in/ashwaanthrs)
+📫 Let's Connect    LinkedIn: [Linkedin](https://www.linkedin.com/in/ashwaanthrs)
