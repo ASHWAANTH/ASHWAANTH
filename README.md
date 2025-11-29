@@ -11,8 +11,8 @@
 
 
 
-🚀 Skills   Programming: C | Python
+🚀 Skills---->   Programming: C | Python
 
 
 
-📫 Let's Connect    LinkedIn: [Linkedin](https://www.linkedin.com/in/ashwaanthrs)
+📫 Let's Connect---->    LinkedIn: [Linkedin](https://www.linkedin.com/in/ashwaanthrs)
